@@ -12,7 +12,7 @@
             </Comments>
         <TranskribusMetadata docId="521770" pageId="22221783" pageNr="4" tsid="67236807" status="GT" userId="66244" imgUrl="https://files.transkribus.eu/Get?id=AUAIMCYRDZYKQDNUWFATSDPV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LCPZYQRQGSJKMKMLYDKTXTTS" imageId="17312270"/>
     </Metadata>
-    <Page imageFilename="0004_Moreno_367_4.jpeg" imageWidth="1752" imageHeight="2480">
+    <Page imageFilename="Moreno_367_4.jpeg" imageWidth="1752" imageHeight="2480">
         <PrintSpace>
             <Coords points="67,0 1752,0 1752,2269 67,2269"/>
         </PrintSpace>
